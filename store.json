@@ -3,5 +3,10 @@
     "name": "Save It",
     "desc": "另存新檔",
     "repo": "SaveIt"
+  },
+  {
+    "name": "Test"
+    "desc": "測試"
+    "repo": "test"
   }
 ]
