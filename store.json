@@ -5,8 +5,8 @@
     "repo": "SaveIt"
   },
   {
-    "name": "Test"
-    "desc": "測試"
+    "name": "Test",
+    "desc": "測試",
     "repo": "test"
   }
 ]
